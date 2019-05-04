@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item
+        android:id="@+id/fb"
+        android:icon="@drawable/ic_map_black_24dp"
+        android:title="Facebook" />
+
+    <item
+        android:id="@+id/tw"
+        android:icon="@drawable/facebook"
+        android:title="Twitter" />
+    <item
+        android:id="@+id/gm"
+        android:icon="@drawable/facebook"
+        android:title="Gmail" />
+
+</menu>
